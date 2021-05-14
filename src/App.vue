@@ -9,7 +9,7 @@ export default {
 
 <style>
 .bg-gradient-success {
-    background: linear-gradient(0deg, white 0, red 100%) !important;    
+    background: linear-gradient(0deg, #F2F4FA 0, red 100%) !important;    
 }
 
 </style>

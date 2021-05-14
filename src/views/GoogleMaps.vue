@@ -43,8 +43,8 @@
 
           <template slot="footer">
             <strong>
-            <span class="text-success mr-2">12.18%</span>
-            <span class="text-nowrap">MENSUAL</span>
+            <span class="text-success mr-2"></span>
+            <span class="text-nowrap">Gira el controlador para orientar el panel</span>
             </strong>
           </template>
         </stats-card>
@@ -58,7 +58,7 @@
 
           <template slot="footer">
             <strong>
-            <span class="text-danger mr-2">5.72%</span>
+            <span class="text-danger mr-2">Generar informe</span>
             <span class="text-nowrap">ANUAL</span>
             </strong>
           </template>
